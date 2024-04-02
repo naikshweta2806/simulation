@@ -52,6 +52,3 @@ env.run(until=SIMULATION_TIME)
 
 
 
-
-
-
